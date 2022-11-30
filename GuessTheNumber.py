@@ -9,7 +9,7 @@ import random
 def wait():
     m.getch()
 
-print("Remind a numbe and press enter")
+print("Remind a number and press enter")
 wait() 
 print("Multiplay it with 2 and press enter")
 wait() 
@@ -21,6 +21,6 @@ wait()
 print("Take back your number and press enter")
 wait()
 result = number/2
-print("You have ", result, " remail")
+print("You have ", result, " remain")
 
 
